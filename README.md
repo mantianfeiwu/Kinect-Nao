@@ -1,2 +1,3 @@
 # Kinect-Nao
-Animation Kinect
+Animation Kinect 
+一起讨论吧！
