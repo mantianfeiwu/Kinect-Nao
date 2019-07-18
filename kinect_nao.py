@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#修改elbow_roll计算方式
 from pykinect2 import PyKinectV2
 from pykinect2.PyKinectV2 import *
 from pykinect2 import PyKinectRuntime
